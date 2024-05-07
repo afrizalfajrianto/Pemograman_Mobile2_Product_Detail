@@ -21,4 +21,6 @@
 
 ## Hasil Run Program
 
-https://github.com/afrizalfajrianto/Pemograman_Mobile2_Product_Detail/assets/115614098/48c2d3cc-6118-4eee-ad28-395c944d085f
+
+https://github.com/afrizalfajrianto/Pemograman_Mobile2_Product_Detail/assets/115614098/d8894d5e-ef54-421a-8415-7edb251abe32
+
